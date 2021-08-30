@@ -21,4 +21,4 @@ Example:
 
 ## Problems
 
-- [Water Jug](./WaterJug/README.md)
+- [Water Jug](./WaterJug/main.c)
