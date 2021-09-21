@@ -22,3 +22,4 @@ Example:
 ## Problems
 
 - [Water Jug](./WaterJug/main.c)
+- [N-Puzzle](./N-Puzzle/main.c)
