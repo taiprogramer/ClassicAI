@@ -6,7 +6,7 @@ Solution for classic AI problems written in C
 
 I have written a script called `run.sh` to help you easily run the demo.
 
-On Linux, simply run:
+On GNU/Linux or similar system, simply run:
 
 ```sh
 chmod +x run.sh
