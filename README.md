@@ -21,5 +21,5 @@ Example:
 
 ## Problems
 
-- [Water Jug](./WaterJug/main.c)
-- [N-Puzzle](./N-Puzzle/main.c)
+- [Water Jug](./WaterJug/README.md)
+- [N-Puzzle](./N-Puzzle/README.md)
