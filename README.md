@@ -23,3 +23,4 @@ Example:
 
 - [Water Jug](./WaterJug/README.md)
 - [N-Puzzle](./N-Puzzle/README.md)
+- [Frog Jumping](./FrogJumping/dfs.c)
